@@ -33,3 +33,9 @@ Es el sistema básico de módulos de NodeJS, forma clásica y antigua
 > [!TIP]
 > - js -> por defecto utiliza CommonJS
 > - .mjs -> para utilizar los ES Modules
+
+# HTTP
+Protocolo de transferencia de hipertexto, es un protocolo de red para transimitir informacion **(Paginas web)**
+
+# EXPRESS
+Es el framework mas utilizado, que te permite hacer aplicaciones webs, apis
